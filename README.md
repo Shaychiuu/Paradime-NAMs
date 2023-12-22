@@ -3,5 +3,4 @@
 
  Student: Isabella Petrache k12007362
 
-## Datasets
-* Stroke Prediction: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset?resource=download
+The in the thesis referenced notebook is named "final."
